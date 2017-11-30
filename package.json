@@ -1,0 +1,62 @@
+{
+  "_from": "caching@*",
+  "_id": "caching@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-tumQ+cfrPnfWcZDMrKPtSF69s00=",
+  "_location": "/caching",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "caching@*",
+    "name": "caching",
+    "escapedName": "caching",
+    "rawSpec": "*",
+    "saveSpec": null,
+    "fetchSpec": "*"
+  },
+  "_requiredBy": [
+    "/node_sip_server"
+  ],
+  "_resolved": "https://registry.npmjs.org/caching/-/caching-0.1.4.tgz",
+  "_shasum": "b6e990f9c7eb3e77d67190ccaca3ed485ebdb34d",
+  "_spec": "caching@*",
+  "_where": "C:\\projects\\mars_test_2911\\node_modules\\node_sip_server",
+  "author": {
+    "name": "Mathias Pettersson",
+    "email": "mape@mape.me"
+  },
+  "bugs": {
+    "url": "https://github.com/mape/node-caching/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Easier caching in node.js",
+  "devDependencies": {
+    "expresso": "~0.8.1"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": [
+    "node"
+  ],
+  "homepage": "https://github.com/mape/node-caching#readme",
+  "main": "./lib/caching",
+  "name": "caching",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git+ssh://git@github.com/mape/node-caching.git"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mape/node-caching.git"
+  },
+  "scripts": {
+    "test": "expresso"
+  },
+  "version": "0.1.4"
+}
